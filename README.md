@@ -10,11 +10,11 @@ recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/pytho
 
 In this workshop, we provide an introduction to data visualization with Python. First, we'll cover some basics of visualization theory. Then, we'll explore how to plot data in Python using the `matplotlib` and `seaborn` packages. We aim to cover the following types of plots:
 
-* Line plots
+* Histograms
 * Bar plots
+* Boxplots
 * Scatter plots
-* Boxplot
-* Heat maps
+* Line plots
 
 ## Learning Objectives
 

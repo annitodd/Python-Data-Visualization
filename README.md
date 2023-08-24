@@ -28,7 +28,7 @@ After this workshop, you will be able to:
 This workshop does not cover the following:
 
 - Working with Pandas DataFrames. This is covered in [Python Data Wrangling](https://github.com/dlab-berkeley/Python-Data-Wrangling).
-- [Python basics]. These are covered in [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals).
+- Python basics. These are covered in [Python Fundamentals](https://github.com/dlab-berkeley/Python-Fundamentals).
 
 
 ## Installation Instructions

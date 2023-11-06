@@ -7,6 +7,9 @@
 This repository contains the materials for D-Lab's Python Data Visualization workshop. We
 recommend attending [Python Fundamentals](https://github.com/dlab-berkeley/python-fundamentals) prior to taking this workshop.
 
+Check D-Lab's [Learning Pathways](https://dlab-berkeley.github.io/dlab-workshops/python_path.html) to figure out which of our workshops to take!
+
+
 ## Workshop Goals
 
 In this workshop, we provide an introduction to data visualization with Python. First, we'll cover some basics of visualization theory. Then, we'll explore how to plot data in Python using the `matplotlib` and `seaborn` packages. We aim to cover the following types of plots:
